@@ -20,9 +20,9 @@
 ## Link do google [2^]
 [Google](https://google.com).
 
+![taniec.jpg](taniec.jpg)
 
 
-cos
 
 [1](#2)
 

@@ -12,19 +12,13 @@
 - bycie grzecznym
 - stosowanie się przepisów ruchu drogowego
 
-:hearts:
-
-:fire:
-
-
 ## Link do google [2^]
 [Google](https://google.com).
 
 ![taniec.jpg](taniec.jpg)
 
-
-
 [1](#2)
 
 [^1]:Tak wygląda mój piątek
+
 [^2]:A tu znajdziesz odpowiedzi na wszystkie pytania :)
